@@ -179,4 +179,4 @@ total_dominance(Creature) :-
    END OF SYSTEM
    =============================== */
    #OUTPUT
-   
+   https://i.supaimg.com/e2e44ead-88a4-42cb-85b0-79d13af2ecf3.png
